@@ -89,7 +89,7 @@
       "bannedReason": ""
     },
     "6285860271629@s.whatsapp.net": {
-      "exp": 106,
+      "exp": 130,
       "limit": 1000,
       "money": 1000,
       "spin": 10,
@@ -594,10 +594,10 @@
   },
   "stats": {
     "sticker.js": {
-      "total": 8,
-      "success": 5,
-      "last": 1668525037334,
-      "lastSuccess": 1668514820221
+      "total": 9,
+      "success": 6,
+      "last": 1668527527026,
+      "lastSuccess": 1668527527026
     },
     "wm.js": {
       "total": 3,
